@@ -1,3 +1,8 @@
+# Reading the report
+
+to read the report, just click on the `` file
+
+# Recreating the experiments
 The experiment was done by running the following files in order
 
     1) 'cartpole_train_dqn_and_collect.py'
