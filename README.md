@@ -1,6 +1,6 @@
 # Reading the report
 
-to read the report, just click on the `` file
+to read the report, just click on the `RL_final_project__Copy_.pdf` file
 
 # Recreating the experiments
 The experiment was done by running the following files in order
